@@ -75,7 +75,7 @@ a {
   background-image: linear-gradient(to bottom right, rgba(40, 40, 40, 0.23), rgba(254, 185, 96, 0.23));
 }
 .transparent-overlay:before {
-  background-image: linear-gradient(to bottom right, rgba(254, 185, 96, 0.9), rgba(254, 185, 96, 0.9));
+  background-image: linear-gradient(to bottom right, rgba(254, 185, 96, 0.9), rgba(254, 185, 96, 0.20));
 }
 .polygon-bg {
   background-image: url(../../images/polygon-bg/yellow.jpg);
